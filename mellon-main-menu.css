@@ -1,0 +1,44 @@
+.firstpage{
+	background-color:#F8C471;
+}
+
+.mellon{
+	color:#F8C471;
+	font-size:100px;
+	font-family:'Scope One';
+}
+.floating-box {
+    float:left;
+    width:200px;
+    height:150px;
+    margin:10px;
+    background-color:#F37F5D;
+	text-align:center;
+	color:white;
+	border-radius:5px;
+	display:inline-block;
+}
+.divtext{
+	margin-top:45px;
+	font-family:'Scope One';
+	font-size:25px;
+}
+a{
+	display:block;
+}
+a:link{
+	color:white;
+}
+a:hover{
+	color:#F5E3DE;
+	text-decoration:none;
+}
+a:visited{
+	color:white;
+}
+#about{
+	margin-top:50px;
+}
+#smi,#ci{
+	margin-top:37px;
+}
